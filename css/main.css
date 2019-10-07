@@ -49,7 +49,7 @@ li :first-of-type {
 .albino{
   font-family: 'PT serif', serif;
   font-weight: 200
-  font-size: .8rem;
+  font-size: 0.8rem;
 }
 
 blockquote {
@@ -60,7 +60,6 @@ blockquote {
   position: relative;
   width: 650px;
   margin: 30px auto;
-  line-height: 1.5rem;
 }
 
 figure {
