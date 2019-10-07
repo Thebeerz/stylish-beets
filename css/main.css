@@ -32,7 +32,7 @@ dd {
   font-family: "PT serif", serif;
 }
 
-i > h1{
+i > h1 {
   font-style: italic;
 }
 
@@ -47,10 +47,10 @@ li :first-of-type {
   font-size: 1.125rem;
 }
 
-.albino{
+.albino {
   font-family: "PT Serif", serif;
   font-weight: 200;
-  font-size: 0.8rem;
+  font-size: .8rem;
   list-style-type: lower-greek;
 }
 
@@ -65,9 +65,9 @@ blockquote {
 }
 
 figure {
-  font-family: "PT serif",serif;
+  font-family: "PT serif", serif;
   font-style: italic;
-  font-size: 0.8rem;
+  font-size: .8rem;
 }
 
 aside > p {
