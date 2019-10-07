@@ -1,0 +1,79 @@
+body {
+  background-color: #c9b5ab;
+  font-family: "PT sans", serif;
+  font-size: 1.125rem;
+  line-height: 1.5;
+  width: 1500px;
+}
+
+h1 {
+  font-weight: bold;
+  font-family: "PT sans", serif;
+  color: #3f1622;
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
+h2 {
+  font-weight: bold;
+  font-family: "PT sans", serif;
+  color: #3f1622;
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
+dt {
+  font-weight: 700;
+  font-family: "PT serif", serif;
+}
+
+dd {
+  font-style: italic;
+  font-family: "PT serif", serif;
+}
+
+i > h1{
+  font-style: italic;
+}
+
+a {
+  color: #8f2440;
+}
+
+li :first-of-type {
+  font-weight: bold;
+  font-family: "PT sans", serif;
+  font-size: 1.125rem;
+}
+
+.albino{
+  font-family: 'PT serif', serif;
+  font-weight: 200
+  font-size: .8rem;
+}
+
+blockquote {
+  font-weight: lighter;
+  font-family: "PT serif", serif;
+  font-size: 1.5rem;
+  font-style: italic;
+  position: relative;
+  width: 650px;
+  margin: 30px auto;
+}
+
+figure {
+  font-family: 'PT serif',serif;
+  font-style: italic;
+  font-size: 0.8rem;
+}
+
+aside > p {
+  font-style: italic;
+  font-family: "PT serif", serif;
+}
+
+aside > ul {
+  font-family: "PT serif", serif;
+  font-weight: 200;
+}
