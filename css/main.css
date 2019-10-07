@@ -1,6 +1,6 @@
 body {
   background-color: #c9b5ab;
-  font-family: 'PT Sans', serif;
+  font-family: "PT Sans", serif;
   font-size: 1.125rem;
   line-height: 1.5;
   width: 1500px;
@@ -8,7 +8,7 @@ body {
 
 h1 {
   font-weight: bold;
-  font-family: 'PT Sans', serif;
+  font-family: "PT Sans", serif;
   color: #3f1622;
   font-size: 1.5rem;
   line-height: 1.5;
@@ -16,7 +16,7 @@ h1 {
 
 h2 {
   font-weight: bold;
-  font-family: 'PT Sans', serif;
+  font-family: "PT Sans", serif;
   color: #3f1622;
   font-size: 1.5rem;
   line-height: 1.5;
@@ -24,12 +24,12 @@ h2 {
 
 dt {
   font-weight: normal;
-  font-family: 'PT serif', serif;
+  font-family: "PT serif", serif;
 }
 
 dd {
   font-style: italic;
-  font-family: 'PT serif', serif;
+  font-family: "PT serif", serif;
 }
 
 i > h1{
@@ -43,12 +43,12 @@ a {
 
 li :first-of-type {
   font-weight: bold;
-  font-family: 'PT sans', serif;
+  font-family: "PT sans", serif;
   font-size: 1.125rem;
 }
 
 .albino{
-  font-family: 'PT Serif', serif;
+  font-family: "PT Serif", serif;
   font-weight: 200;
   font-size: 0.8rem;
   list-style-type: lower-greek;
@@ -65,7 +65,7 @@ blockquote {
 }
 
 figure {
-  font-family: 'PT serif',serif;
+  font-family: "PT serif",serif;
   font-style: italic;
   font-size: 0.8rem;
 }
