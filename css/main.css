@@ -38,6 +38,7 @@ i > h1{
 
 a {
   color: #8f2440;
+  text-decoration: none;
 }
 
 li :first-of-type {
