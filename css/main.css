@@ -42,14 +42,16 @@ a {
 
 li :first-of-type {
   font-weight: bold;
-  font-family: "PT sans", serif;
+  font-family: 'PT sans', serif;
   font-size: 1.125rem;
 }
 
 .albino{
-  font-family: 'PT serif', serif;
-  font-weight: 200
+  font-family: 'PT Serif', serif;
+  font-weight: 200;
   font-size: 0.8rem;
+  list-style-type: lower-greek;
+
 }
 
 blockquote {
