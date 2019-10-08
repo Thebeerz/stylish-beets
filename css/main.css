@@ -78,3 +78,16 @@ figcaption {
   font-size: 1.125rem;
   font-family: PT, serif;
 }
+
+.crimson {
+  list-style-type: circle;
+  font-weight: normal;
+  font-size: 1.125rem;
+  font-family: PT, serif;
+}
+
+dd {
+  font-weight: normal;
+  font-size: 1.125rem;
+  font-family: PT, serif;
+}
