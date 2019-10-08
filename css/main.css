@@ -79,5 +79,5 @@ figcaption {
 .para, .paratwo {
   font-weight: lighter;
   font-size: 1.125rem;
-  font-family: "PT Serif", serif;
+  font-family: PT, serif;
 }
