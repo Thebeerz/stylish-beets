@@ -16,16 +16,7 @@ img {
 
 a:hover {
   color: #3f1622;
-  text-decoration: underline;
-}
-
-dd {
-  font-style: italic;
-  font-family: "PT serif", serif;
-}
-
-i > h1 {
-  font-style: italic;
+  text-decoration: none;
 }
 
 nav {
@@ -41,12 +32,11 @@ a {
 
 nav a {
   color: #3f1622;
-text-decoration: none;
+  text-decoration: none;
 }
 
 nav ol {
   list-style-type: none;
-  font-size: .8rem;
 }
 
 li :first-of-type {
