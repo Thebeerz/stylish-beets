@@ -3,7 +3,7 @@ html {
   font-family: "PT Sans", serif;
   font-size: 1.125rem;
   line-height: 1.5;
-  width: 1500px;
+  width: 100;
 }
 
 h1 {
@@ -22,8 +22,12 @@ h2 {
   line-height: 1.5;
 }
 
+img {
+  width: 100;
+}
+
 a:hover {
-  colour
+  background-color: #3f1622;
 }
 dt {
   font-weight: normal;
