@@ -5,13 +5,13 @@ html {
   font-weight: bold;
 }
 
+img {
+  width: 100%;
+}
+
 h1, h2 {
   font-family: "PT Sans", sans-serif;
   color: #3f1622;
-}
-
-img {
-  width: 100%;
 }
 
 a:hover {
@@ -50,6 +50,7 @@ li :first-of-type {
   font-family: "PT Serif", serif;
   font-size: .8rem;
   list-style-type: lower-greek;
+  font-weight: normal;
 }
 
 blockquote {
@@ -68,6 +69,12 @@ figcaption {
 
 .para, .paratwo {
   font-weight: lighter;
+  font-size: 1.125rem;
+  font-family: PT, serif;
+}
+
+.tags {
+  font-weight: normal;
   font-size: 1.125rem;
   font-family: PT, serif;
 }
