@@ -20,7 +20,7 @@ img {
 }
 
 a:hover {
-  background-color: #3f1622;
+  color: #3f1622;
   text-decoration: underline;
 }
 
@@ -39,10 +39,15 @@ a {
   list-style: none;
 }
 
+nav ol {
+  list-style-type: none;
+}
+
 li :first-of-type {
   font-weight: bold;
   font-family: "PT sans", serif;
   font-size: 1.125rem;
+  list-style-type: decimal-leading-zero;
 }
 
 .albino {
