@@ -16,12 +16,17 @@ img {
 
 a:hover {
   color: #3f1622;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 nav {
   font-family: "PT Sans", serif;
   font-size: .8rem;
+}
+
+nav a {
+  color: #8f2440;
+  text-decoration: none;
 }
 
 a {
