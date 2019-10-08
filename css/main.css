@@ -51,20 +51,20 @@ nav ol {
 
 li :first-of-type {
   font-weight: bold;
-  font-family: "PT sans", serif;
+  font-family: PT, serif;
   font-size: 1.125rem;
   list-style-type: decimal-leading-zero;
 }
 
 .albino {
-  font-family: "PT Serif", serif;
+  font-family: PT, serif;
   font-size: .8rem;
   list-style-type: lower-greek;
 }
 
 blockquote {
   font-weight: lighter;
-  font-family: "PT serif", serif;
+  font-family: PT, serif;
   font-size: 1.5rem;
   font-style: italic;
 }
