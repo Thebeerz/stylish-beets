@@ -40,8 +40,8 @@ a {
 }
 
 nav a {
-  font-family: "PT Sans", serif;
-  font-size: .8rem;
+  color: #3f1622;
+text-decoration: none;
 }
 
 nav ol {
@@ -57,7 +57,7 @@ li :first-of-type {
 }
 
 .albino {
-  font-family: PT, serif;
+  font-family: "PT Serif", serif;
   font-size: .8rem;
   list-style-type: lower-greek;
 }
