@@ -1,6 +1,6 @@
 html {
   background-color: #c9b5ab;
-  font-family: "PT Sans", serif;
+  font-family: "PT Sans", sans-serif;
   line-height: 1.5;
   font-weight: bold;
 }
@@ -30,6 +30,7 @@ i > h1 {
 
 nav {
   font-family: "PT Sans", serif;
+  font-size: .8rem;
 }
 
 a {
@@ -38,8 +39,14 @@ a {
   list-style: none;
 }
 
+nav a {
+  font-family: "PT Sans", serif;
+  font-size: .8rem;
+}
+
 nav ol {
   list-style-type: none;
+  font-size: .8rem;
 }
 
 li :first-of-type {
@@ -53,6 +60,13 @@ li :first-of-type {
   font-family: "PT Serif", serif;
   font-size: .8rem;
   list-style-type: lower-greek;
+}
+
+blockquote {
+  font-weight: lighter;
+  font-family: "PT serif", serif;
+  font-size: 1.5rem;
+  font-style: italic;
 }
 
 figcaption {
