@@ -76,8 +76,8 @@ aside > ul {
   font-weight: 200;
 }
 
-.para {
+.para, .paratwo {
   font-weight: lighter;
   font-size: 1.125rem;
-  font-family: "PT Sans", serif;
+  font-family: "PT Serif", serif;
 }
