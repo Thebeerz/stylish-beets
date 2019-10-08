@@ -5,13 +5,8 @@ html {
   font-weight: bold;
 }
 
-h1 {
-  font-family: "PT Sans", serif;
-  color: #3f1622;
-}
-
-h2 {
-  font-family: "PT Sans", serif;
+h1, h2 {
+  font-family: "PT Sans", sans-serif;
   color: #3f1622;
 }
 
@@ -33,6 +28,10 @@ i > h1 {
   font-style: italic;
 }
 
+nav {
+  font-family: "PT Sans", serif;
+}
+
 a {
   color: #8f2440;
   text-decoration: none;
@@ -52,7 +51,6 @@ li :first-of-type {
 
 .albino {
   font-family: "PT Serif", serif;
-  font-weight: 200;
   font-size: .8rem;
   list-style-type: lower-greek;
 }
@@ -64,11 +62,11 @@ blockquote {
   font-style: italic;
 }
 
-figure {
-  font-family: "PT serif", serif;
+figcaption {
   font-style: italic;
-  font-size: .8rem;
+  font-size: 1.125rem;
   font-weight: normal;
+  text-align: center;
 }
 
 aside > p {
