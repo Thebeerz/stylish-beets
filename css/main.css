@@ -55,28 +55,11 @@ li :first-of-type {
   list-style-type: lower-greek;
 }
 
-blockquote {
-  font-weight: lighter;
-  font-family: "PT serif", serif;
-  font-size: 1.5rem;
-  font-style: italic;
-}
-
 figcaption {
   font-style: italic;
   font-size: 1.125rem;
   font-weight: normal;
   text-align: center;
-}
-
-aside > p {
-  font-style: italic;
-  font-family: "PT serif", serif;
-}
-
-aside > ul {
-  font-family: "PT serif", serif;
-  font-weight: 200;
 }
 
 .para, .paratwo {
