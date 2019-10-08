@@ -16,7 +16,7 @@ h2 {
 }
 
 img {
-  width: 100;
+  width: 100%;
 }
 
 a:hover {
@@ -65,7 +65,7 @@ figure {
   font-family: "PT serif", serif;
   font-style: italic;
   font-size: .8rem;
-  font-style: normal;
+  font-weight: normal;
 }
 
 aside > p {
